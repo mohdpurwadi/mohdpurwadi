@@ -6,14 +6,14 @@
 ---
 
 ## 🚀 About Me
-Saya adalah seorang profesional IT yang berpengalaman dalam:
-- Troubleshooting hardware & software (Windows)
-- Instalasi & konfigurasi jaringan LAN
-- Pengembangan website (WordPress, PHP Native, HTML, CSS, JS)
-- Desain grafis (Photoshop, Canva)
-- Digital Marketing (SEO & SEM)
+I am an IT professional with strong experience in:
+- Hardware & software troubleshooting (Windows)
+- LAN network installation and configuration
+- Website development (WordPress, PHP Native, HTML, CSS, JavaScript)
+- Graphic design (Photoshop, Canva)
+- Digital marketing (SEO & SEM)
 
-Saya memiliki minat besar dalam perkembangan teknologi terbaru dan terus belajar untuk meningkatkan skill di dunia IT.
+I am passionate about learning new technologies and continuously improving my skills in the IT field.
 
 ---
 
@@ -32,8 +32,8 @@ Saya memiliki minat besar dalam perkembangan teknologi terbaru dan terus belajar
 **WordPress Developer**  
 📅 Nov 2012 - Present  
 📍 Remote  
-- Mengembangkan website media online
-- Update fitur & tampilan secara berkala
+- Developed and maintained online media websites  
+- Continuously improved features and user interface  
 
 ---
 
@@ -41,17 +41,17 @@ Saya memiliki minat besar dalam perkembangan teknologi terbaru dan terus belajar
 **Web Developer**  
 📅 Jan 2017 - Present  
 📍 Pekanbaru, Riau  
-- Jasa pembuatan website profesional
-- Fokus pada performa & SEO
+- Built professional websites for clients  
+- Focused on performance optimization and SEO  
 
 ---
 
-### 🏗️ PT. RCB (Jasa Kolam Renang)  
+### 🏗️ PT. RCB (Swimming Pool Company)  
 **SEO Specialist**  
 📅 Jan 2023 - Jan 2024  
 📍 Pekanbaru  
-- Optimasi SEO
-- Pengembangan website untuk digital marketing
+- Optimized websites for search engines  
+- Improved digital marketing performance  
 
 ---
 
@@ -59,8 +59,8 @@ Saya memiliki minat besar dalam perkembangan teknologi terbaru dan terus belajar
 **IT Support Specialist**  
 📅 Feb 2018 - Feb 2021  
 📍 Pekanbaru  
-- Pengelolaan sistem IT
-- Support digital marketing
+- Managed IT systems and infrastructure  
+- Supported digital marketing activities  
 
 ---
 
@@ -68,22 +68,22 @@ Saya memiliki minat besar dalam perkembangan teknologi terbaru dan terus belajar
 **IT Support & Educator**  
 📅 Jan 2012 - Jan 2015  
 📍 Pekanbaru  
-- IT Support
-- Pengajar di lingkungan sekolah
+- Provided IT support  
+- Worked as an educator in the institution  
 
 ---
 
 ## 🎓 Education
 🎓 **Al-Azhar Computer**  
-Ahli Madya Teknik Informatika (2011 - 2015)
+Associate Degree in Informatics Engineering (2011 - 2015)
 
 ---
 
 ## 📜 Certifications
-- SEO 101: Cara Membuat Website Eksis di Google
-- Belajar SEO untuk Spesialis Marketing
-- Google Ads Specialist Training
-- Responsive Web Design
+- SEO 101: How to Rank Websites on Google  
+- SEO for Marketing Specialists  
+- Google Ads Specialist Training  
+- Responsive Web Design  
 
 ---
 
@@ -91,7 +91,7 @@ Ahli Madya Teknik Informatika (2011 - 2015)
 📞 081267064558  
 📧 adiaryandanu@gmail.com  
 
-🌐 Website:
+🌐 Websites:
 - https://www.riauwebhost.com  
 - https://www.mohdpurwadi.web.id  
 
@@ -101,8 +101,8 @@ Ahli Madya Teknik Informatika (2011 - 2015)
 ---
 
 ## ⚡ Fun Fact
-Saya suka menggabungkan skill teknis dan marketing untuk membuat website yang tidak hanya bagus, tapi juga menghasilkan 💰
+I enjoy combining technical skills with marketing strategies to build websites that are not only visually appealing but also generate revenue 💰
 
 ---
 
-⭐ *Feel free to connect, collaborate, or hire me!*
+⭐ *Feel free to connect, collaborate, or work with me!*
